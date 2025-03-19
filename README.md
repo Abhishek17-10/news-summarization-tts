@@ -56,7 +56,4 @@ streamlit run app.py
 ## **🤝 Contribution**
 Feel free to fork, improve, or suggest changes! 🙌  
 
----
 
-This README is **structured, detailed, and professional.**  
-Want any modifications? 🚀
